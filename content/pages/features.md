@@ -5,7 +5,7 @@ sections:
     title: Explore Features
     subtitle: Features Page Demo
     background_color: primary
-    align: right
+    align: left
   - type: features_section
     features:
       - title: Section Title One
